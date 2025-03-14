@@ -7,7 +7,7 @@ Team H.A.K.I.'s program repository for IM and Web Programming.
 
 - Open the Admin of MySQL
 
-- create a new datbase and name it animal_doctors
+- create a new datbase and name it animal
 
 - go to import then press Choose File
 
